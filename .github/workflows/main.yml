@@ -33,9 +33,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         env:
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-          SENDKEY: ${{ secrets.SENDKEY }}
+          USERNAME: 15660896617
+          PASSWORD: QQ13569394808h
+          SENDKEY: SCT226679TZYaSDcktTUh2IPW66fL6nH72
           TGCHATID: ${{ secrets.TGCHATID }}
           BOTTOKEN: ${{ secrets.BOTTOKEN }}
           ADDRESS: ${{ secrets.ADDRESS }}
